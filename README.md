@@ -1,2 +1,2 @@
-20223171    kimteawoo
+kimtaewoo 20223171
 Kookmin Univ. AI
